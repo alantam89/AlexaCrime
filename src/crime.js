@@ -488,7 +488,7 @@ var Uganda = {
 }
 var Kenya = {
     countryName: 'Kenya',
-	intro: 'Welcome to Kenya ',
+	intro: 'Welcome to Kenya known as the cradel of mankind and home to the Big 5; Lions, Elephants, Buffalo, Rhinos and Leopards',
     facts: ['East African country with coastline on the Indian Ocean',
 'The capital is Nairobi',
 'Flag has two crossed white spears behind a rea, white, and black Maasai shield',
@@ -500,13 +500,13 @@ var Kenya = {
 'The official language is English and Swahili',
 'Take a safari at the stunning Maasai Mara savannah reserve'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Abdullah', 'Hanif', 'Muraty', 'Musa', 'Safiri', 'Shani'],
+    f_names: ['Abbo', 'Asya', 'Himaya', 'Hasanati', 'Sanura', 'Aisha'],
     region: 'Africa'
 }
 var Somalia = {
     countryName: 'Somalia',
-	intro: 'Welcome to Somalia ',
+	intro: 'Welcome to Somalia known as the Land of Punt. Punt was famous for frankincense and myrrh.',
     facts: ['The flag is all blue with a large white star in the middle',
 'Located in the horn of Africa',
 'Known for piracy off the coast',
@@ -518,13 +518,13 @@ var Somalia = {
 'The majority follow islam',
 'Lies along the gulf of Aden and the Indian Ocean'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Aynab', 'Muhammad', 'Jawahir', 'Ladan', 'Braheem', 'Nadeem'],
+    f_names: ['Jameelah', 'Aamina', 'Khadija', 'Uba', 'Ugbad', 'Filsan'],
     region: 'Africa'
 }
 var Sudan = {
     countryName: 'Sudan',
-	intro: 'Welcome to Sudan ',
+	intro: 'Welcome to Sudan, the biggest country in Africa, but it receives the least number of international visitors among African countries due to the ongoing conflict in several parts of Sudan.',
     facts: ['The capital is Khartoum',
 'The official language is Arabic and english with the country meaning The land of the Blacks',
 'Used to be the largest country in Africa before being split into north and south in 2011',
@@ -536,13 +536,13 @@ var Sudan = {
 'Home to the first women movement in Africa and Middle East during the 60’s',
 'They had the first female parliamentarian in 1965 and the first female minister of health in 1974'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Suleyman', 'malce', 'Ibraheem', 'Shakir', 'Kareem', 'Patrick'],
+    f_names: ['Yaya', 'Nadia', 'Anita', 'Hiba', 'joyce', 'Racehl'],
     region: 'Africa'
 }
 var Nigeria = {
     countryName: 'Nigeria',
-	intro: 'Welcome to Nigeria ',
+	intro: 'Welcome to Nigeria. When you think oil, you think Nigeria. Nigeria remains Africas largest oil producer ',
     facts: ['Located near the ivory coast',
 'Where you can find the infamous prince that can make you rich over email',
 'Known as the Giant of Africa due to its large population and economy',
@@ -554,13 +554,13 @@ var Nigeria = {
 'Home to the city of Lagos which is known as Africa’s big apple',
 'Known for hollywood type scene called Nollywood'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Simon', 'Akoni', 'Kalu', 'Kelechi', 'Kwento', 'Oba'],
+    f_names: ['Alkana', 'Iyawa', 'Juba', 'Kokumu', 'Lewa', 'Obi'],
     region: 'Africa'
 }
 var Cameroon = {
     countryName: 'Cameroon',
-	intro: 'Welcome to Cameroon ',
+	intro: 'Welcome to Cameroon known as All of Africa in one country due to its geography and lively culture of music, particularly makossa and bikutsi, and for its successful national football team. ',
     facts: ['Central African country just north of Gabon',
 '230 other languages are spoken with French and English as the official languages',
 'Known as the hinge of africa and Africa in miniature',
@@ -571,13 +571,13 @@ var Cameroon = {
 'The flag has 3 vertical stripes green, red, and yellow with a gold star in the middle',
 'Where Ginger beer is consumed frequently by kids and adults and is non-alcoholic ',
 'Where you can find the only active volcano in western africa'],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Mamado', 'Alfa', 'Joseph', 'Demba', 'Samba', 'Alex'],
+    f_names: ['Amy', 'Ouria', 'Seynabou', 'Pauline', 'Angel', 'Cynthia'],
     region: 'Africa'
 }
 var Senegal = {
     countryName: 'Senegal',
-	intro: 'Welcome to Sénégal ',
+	intro: 'Welcome to Senegal known as the vibrant pulse of West Africa due to its tradition of storytelling, which is done by griots, who have kept West African history alive for thousands of years through words and music',
     facts: ['The capital is Dakar',
 'Named by Portuguese fisherman which means these are our boats',
 'Used to be the hub for the international slave trade',
@@ -589,13 +589,13 @@ var Senegal = {
 'Predominantly muslim country with large ties to French and Lebanese culture ',
 'Where you can see The Senegambian Stone Circles'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Yves', 'Romeo', 'Frank', 'Oliver', 'Nelson', 'Wilson'],
+    f_names: ['Cynthia', 'Stephanie', ' Marie', 'Laura', 'Hillary', 'Diana'],
     region: 'Africa'
 }
 var Ghana = {
     countryName: 'Ghana',
-	intro: 'Welcome to Ghana ',
+	intro: 'Welcome to Ghana historically famous for its gold. It was previously called the Gold Coast. Now, Chocolate has probably taken over, with it being one of the key suppliers of Cocoa to the likes of Cadburys',
     facts: ['Sandwhiched between Cote d’ivoire and Togo',
 'The capital is Accra',
 'The local currency is cedi meaning sea shells',
@@ -607,14 +607,14 @@ var Ghana = {
 'First sub-saharan nation to gain independance post-colonialism',
 'Home to the largest market in West Africa called Kejetia Market'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Abdul-Samad', 'Atsu', 'Muhsin', 'Nsoah', 'Qamar', 'Sabir'],
+    f_names: ['Mawusi', 'Najla', 'Nana', 'Rihana', 'Tawbah', 'Thema'],
     region: 'Africa'
 }
 //SouthAmerica
 var Brazil = {
     countryName: 'Brazil',
-	intro: 'Welcome to Brazil ',
+	intro: 'Welcome to Brazil, the only country in South America that speaks Portuguese. Known for soccer and coffee',
     facts: ['The largest country in South America',
 'The macaw is the national animal',
 'Known as the worlds largest producer of coffee',
@@ -626,13 +626,13 @@ var Brazil = {
 'The motto on their flag means order and progress',
 'Where you see the statue of Christ the Redeemer looking down on you'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Gabriel', 'Arthur', 'Luis', 'Lucas', 'Pedro', 'Bruno'],
+    f_names: ['Gabriella', 'Amanda', 'Beatriz', 'Victoria', 'Raquel', 'Sabrina'],
     region: 'South America'
 }
 var Argentina = {
     countryName: 'Argentina',
-	intro: 'Welcome to Argentina ',
+	intro: 'Welcome to Argentina known for its elite national soccer team, the famed revolutionary Che Guevara and such beautiful landforms as the Iguazu Falls. One of the most striking countries in South America, Argentina is a popular tourist destination and features a dense heritage.',
     facts: ['The name comes from the latin word for silver',
 'Home to Pope Francis, the first non-european pontiff of the Roman Catholic Church',
 'Where the first animated film was created in 1917',
@@ -644,13 +644,13 @@ var Argentina = {
 'Try Yerba Mate there. It is the national drink',
 'Home to the world’s widest avenue spanning 14 lanes and 4 lanes of parallel streets'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Marcos', 'Juan', 'Agustine', 'Pablo', 'Fernando', 'Armando'],
+    f_names: ['Agustina', 'Camila', 'Paula', 'Sara', 'Julia', ''],
     region: 'South America'
 }
 var Venezuela = {
     countryName: 'Venezuela',
-	intro: 'Welcome to Venezuela ',
+	intro: 'Welcome to Venezuela known widely for its petroleum industry, the environmental diversity of its territory, and its natural features. Home to a huge diversity of wildlife in a variety of protected habitats, Venezuela is considered to be among the 17 most megadiverse countries in the world',
     facts: ['The name means little venice named after by an Italian explorer',
 'Home to the largest lake in South America and one of the oldest on earth',
 'It is a magical sight to see lightning called Catatumbo which mean continuous high frequency in Spanish',
@@ -662,13 +662,13 @@ var Venezuela = {
 'Home to the famous breakfast dish Arepas',
 'The largest city and capital city is Caracas'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Sebastian', 'Mateo', 'Nicholas', 'Alehandro', 'Diego', 'Tomas'],
+    f_names: ['Alehandra', 'Marian', 'Lucero', 'Michele', 'Diyan', 'Juliana'],
     region: 'South America'
 }
 var Colombia = {
     countryName: 'Colombia',
-	intro: 'Welcome to Colombia ',
+	intro: 'Welcome to Colombia known for its emeralds, the myth of El dorado, and its tropical landscapes nettled in the Andean peaks',
     facts: ['The only country in South America that has a coastline on both the pacific ocean and the Caribbean Sea',
 'The capital is Bogota',
 'Where drug lord Pablo Escobar offered to pay the country’s debt to improve his reputation and escape justice',
@@ -680,13 +680,13 @@ var Colombia = {
 'Home to the largest theater festival called the Iberoamericana',
 'One out of every five butterfly species is found here'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Andres', 'Camillo', 'Diego', 'Ricardo', 'Luis', 'Juan Diego'],
+    f_names: ['Diana', 'Paula', 'Erica', 'Susana', 'Leidi', 'Vanessa'],
     region: 'South America'
 }
 var Peru = {
     countryName: 'Peru',
-	intro: 'Welcome to Peru ',
+	intro: 'Welcome to Peru most famous for Machu Picchu and the Incan Trail. Amongst certain people it is famous for its Ayahuasca ceremonies and Shamans in the Amazon',
     facts: ['Home to Machu Picchu and the Incan Trail',
 'Cuy or Guinea Pig is their traditional dish',
 'The potato originated from here and corn is grown in almost any color you can think of',
@@ -698,8 +698,8 @@ var Peru = {
 'Third largest country in South America',
 'Home to Pima and Tanguis cotton'
 ],
-    m_names: ['', '', '', '', '', ''],
-    f_names: ['', '', '', '', '', ''],
+    m_names: ['Stefano', 'John', 'Carlos', 'Hayzus', 'Victor', 'paulo'],
+    f_names: ['Andrea', 'Daniella', 'Carlita', 'Marissa', 'Myra', 'Ruth'],
     region: 'South America'
 }
 var Ecuador = {
