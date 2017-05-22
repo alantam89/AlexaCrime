@@ -21,48 +21,6 @@ AMAZON.StopIntent Exit
 AMAZON.StopIntent Leave game
 AMAZON.StopIntent Leave
 
-SassyIntent I hate this
-SassyIntent Why should I play this
-SassyIntent This game is terrible
-SassyIntent Why do people play this
-SassyIntent This sucks
-SassyIntent What is wrong with this
-SassyIntent This is lame.
-SassyIntent This is wack.
-SassyIntent This is stupid.
-
-CussIntent Fuck
-CussIntent Shit
-CussIntent Cunt
-CussIntent Bitch
-CussIntent Mother Fucker
-CussIntent As Fuck
-CussIntent Fucker
-CussIntent Cum guzzler
-CussIntent Skank
-CussIntent Nigger
-CussIntent Nigga
-CussIntent Cracker
-CussIntent Ass
-CussIntent Asshole
-CussIntent Asswipe
-CussIntent Bastard
-CussIntent Trick
-CussIntent Wench
-CussIntent Cock block
-CussIntent Dumpster
-
-PersonalIntent You suck
-PersonalIntent I hate you
-PersonalIntent I wish I could kill you
-PersonalIntent I want to kill you
-PersonalIntent I want to beat you up
-PersonalIntent You are lucky that you aren't real
-PersonalIntent you are worthless
-PersonalIntent you are nothing
-PersonalIntent you are lower that a show salesman
-PersonalIntent kill yourself
-PersonalIntent I hope you die
 
 GameStart Yes
 GameStart Yes Sir
@@ -73,25 +31,16 @@ GameStart Yep
 GameStart OK
 GameStart Alright
 GameStart lets do this
-GameStart Aight
 GameStart Yea
-GameStart Cool
 GameStart Start
 GameStart Start it up
 GameStart Crank us up
-GameStart Brief me baby
-GameStart Brief me girl
 GameStart Cant wait
 GameStart lets get it
 GameStart go time
 GameStart Game time
-GameStart Yea buddy
 GameStart Play
 GameStart Im ready
-GameStart lego
-GameStart Laygo
-GameStart Cash me outside
-GameStart Deal me in
 
 CountryIntent lets go to {country_item}
 CountryIntent {country_item}
@@ -121,7 +70,6 @@ TarryStopIntent hello madam
 TarryStopIntent Hi boss
 TarryStopIntent Hey chief
 TarryStopIntent Hi guys
-TarryStopIntent Excuse me ladies
 TarryStopIntent Yo
 TarryStopIntent Hey girl
 TarryStopIntent Hey brother
@@ -131,24 +79,12 @@ TarryStopIntent Sup
 TarryStopIntent What up
 TarryStopIntent Whats up
 TarryStopIntent Hi Miss
-TarryStopIntent Miss
-TarryStopIntent Bro
-TarryStopIntent Dude
-TarryStopIntent Bra
-TarryStopIntent Word up
-TarryStopIntent Hey Brada
-TarryStopIntent Please
-TarryStopIntent Assistance please
+TarryStopIntent A word please
 TarryStopIntent Can I have a word
-TarryStopIntent I need your help
-TarryStopIntent I need help
-TarryStopIntent I need you
-TarryStopIntent I need ya
-TarryStopIntent Can you help me
-TarryStopIntent Say I for me
-TarryStopIntent Say excuse me
-TarryStopIntent Say hello
-TarryStopIntent Say Hi
+TarryStopIntent I have some questions
+TarryStopIntent I have a question
+TarryStopIntent Question him
+
 
 ContinueSearchIntent bye
 ContinueSearchIntent buh bye
@@ -161,8 +97,6 @@ ContinueSearchIntent Good day
 ContinueSearchIntent I appreciate your help
 ContinueSearchIntent Keep going
 ContinueSearchIntent move on
-ContinueSearchIntent see you later
-ContinueSearchIntent later
 
 CrimeBackgroundQuestionIntent Did you hear about {criminal_name}
 CrimeBackgroundQuestionIntent Have you heard about {criminal_name}
@@ -221,7 +155,7 @@ CriminalLooksQuestionIntent Describe what he looks like
 CriminalLooksQuestionIntent Did he have a hat
 CriminalLooksQuestionIntent What does he wear
 CriminalLooksQuestionIntent What was he wearing
-CriminalLooksQuestionIntent Can you tell me what he looked like?
+CriminalLooksQuestionIntent Can you tell me what he looked like
 CriminalLooksQuestionIntent How did he look like
 CriminalLooksQuestionIntent Can you describe what he looks like
 CriminalLooksQuestionIntent Did you see what he looks like
@@ -305,3 +239,7 @@ LastStageIntent locked and loaded
 LastStageIntent i was born for this
 LastStageIntent Cocked and locked
 LastStageIntent Eyes peeled
+LastStageIntent locked
+LastStageIntent loaded
+LastStageIntent ready to be a sleuth
+
